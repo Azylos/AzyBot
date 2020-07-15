@@ -1,0 +1,12 @@
+{
+  "name": "azylosbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Azylos/azylosBot.git",
+  "author": "Azylos",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.0.2",
+    "moment": "^2.24.0"
+  }
+}
