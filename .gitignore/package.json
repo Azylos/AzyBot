@@ -2,7 +2,7 @@
   "name": "azylosbot",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/Azylos/azylosBot.git",
+  "repository": "https://github.com/Azylos/AzyBot.git",
   "author": "Azylos",
   "license": "MIT",
   "dependencies": {
